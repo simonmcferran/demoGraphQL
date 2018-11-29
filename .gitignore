@@ -93,5 +93,5 @@ Thumbs.db
 # dbKeys
 config/*
 
-# Package Lock JSON 
+# Package Lock JSON
 package-lock.json
